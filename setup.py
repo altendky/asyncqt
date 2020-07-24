@@ -16,8 +16,8 @@ setup(
     name='asyncqt',
     version=version,
     url='https://github.com/gmarull/asyncqt',
-    author=', '.join(('Gerard Marull-Paretas'
-                      'Mark Harviston'
+    author=', '.join(('Gerard Marull-Paretas',
+                      'Mark Harviston',
                       'Arve Knudsen')),
     author_email=', '.join(('gerard@teslabs.com',
                             'mark.harviston@gmail.com',
